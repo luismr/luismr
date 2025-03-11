@@ -3,7 +3,7 @@
 
 👀 I’m interested in Java, Python, PHP, TypeScript, JavaScript.
 
-🌱 I’m currently learning BDD automation creating a framework to play any Gherkin feature file in Python.
+🌱 I’m currently learning AI possibilities coding in Python and using OpenAI, Llama, and DeepSeek 👀.
 
 💞️ I’m looking to collaborate on Java, Architecture, Spring support for new developers.
 
@@ -12,13 +12,13 @@
 # Normal People
 ```json
 "profile": {
-   "name": "Luis Machado Reis",
+   "name": "Luis Machado Reis 🍮",
    "pronoums": [ "he", "him" ],
-   "skills": [ "touble-shooter", "trouble-creator" ],
+   "skills": [ "pudim 🍮 master", "touble-shooter", "trouble-creator" ],
    "work": {
-      "company": "Trustly",
-      "role": "Staff Senior Architect",
-      "link": "https://www.trustly.com"
+      "company": "SingularIdeas",
+      "role": "Software Architect",
+      "link": "https://www.singularideas.com.br"
    },
    "code": [ "Java", "Python", "PHP", "TypeScript", "JavaScript" ]
    "frameworks": [
@@ -37,6 +37,7 @@
    ]
    "socials": [
       { "social": "github", "username": "@luismr", "link": "https://www.github.com/luismr" },
+      { "social": "bluesky", "username": "@luismachadoreis.bsky.social", "link": "https://bsky.app/profile/luismachadoreis.bsky.social" },
       { "social": "twitter", "username": "@luismachadoreis", "link": "https://twitter.com/luismachadoreis" },
       { "social": "instagram", "username": "@luismachadoreis", "link": "https://www.instagram.com/luismachadoreis" },
       { "social": "facebook", "username": "@luismachadoreis", "link": "https://facebook.com/luismachadoreis" },
