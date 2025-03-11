@@ -13,28 +13,31 @@
 ```json
 "profile": {
    "name": "Luis Machado Reis 🍮",
-   "pronoums": [ "he", "him" ],
-   "skills": [ "pudim 🍮 master", "touble-shooter", "trouble-creator" ],
+   "pronouns": [ "he", "him" ],
+   "skills": [ "pudim 🍮 master", "trouble-shooter", "trouble-creator" ],
    "work": {
       "company": "SingularIdeas",
       "role": "Software Architect",
       "link": "https://www.singularideas.com.br"
    },
-   "code": [ "Java", "Python", "PHP", "TypeScript", "JavaScript" ]
+   "code": [ "Java", "Python", "PHP", "TypeScript", "JavaScript" ],
    "frameworks": [
       { "type": "frontend", "name": "Angular", "language": "TypeScript" },
       { "type": "frontend", "name": "React", "language": "JavaScript" },
       { "type": "frontend", "name": "Vue", "language": "JavaScript" },
-      { "type": "frontend", "name": "AWS Amplify (all-in-one service aggregator)", "language", "TypeScript" },
-      { "type": "backend", "name": "SpringBoot", "language", "Java" },
-      { "type": "backend", "name": "Flask", "language", "Python" },
-      { "type": "backend", "name": "AWS AppSync (GraphQL)", "language", "TypeScript" },
-      { "type": "backend", "name": "AWS API Gateway (REST)", "language", "TypeScript" },
-      { "type": "backend", "name": "Spring Data (JPA)", "language", "Java" },
-      { "type": "backend", "name": "Spring Data REST (REST based JPA)", "language", "Java" },
-      { "type": "backend", "name": "Spring Web (Controllers and REST API endpoints)", "language", "Java" },
-      { "type": "backend", "name": "Spring Secutiry", "language", "Java" }
-   ]
+      { "type": "frontend", "name": "AWS Amplify (all-in-one service aggregator)", "language": "TypeScript" },
+      { "type": "backend", "name": "SpringBoot", "language": "Java" },
+      { "type": "backend", "name": "Flask", "language": "Python" },
+      { "type": "backend", "name": "AWS AppSync (GraphQL)", "language": "TypeScript" },
+      { "type": "backend", "name": "AWS API Gateway (REST)", "language": "TypeScript" },
+      { "type": "backend", "name": "Spring Data (JPA)", "language": "Java" },
+      { "type": "backend", "name": "Spring Data REST (REST based JPA)", "language": "Java" },
+      { "type": "backend", "name": "Spring Web (Controllers and REST API endpoints)", "language": "Java" },
+      { "type": "backend", "name": "Spring Security", "language": "Java" },
+      { "type": "AI", "name": "OpenAI", "language": "Python" },
+      { "type": "AI", "name": "Llama", "language": "Python" },
+      { "type": "AI", "name": "DeepSeek", "language": "Python" }
+   ],
    "socials": [
       { "social": "github", "username": "@luismr", "link": "https://www.github.com/luismr" },
       { "social": "bluesky", "username": "@luismachadoreis.bsky.social", "link": "https://bsky.app/profile/luismachadoreis.bsky.social" },
@@ -42,7 +45,7 @@
       { "social": "instagram", "username": "@luismachadoreis", "link": "https://www.instagram.com/luismachadoreis" },
       { "social": "facebook", "username": "@luismachadoreis", "link": "https://facebook.com/luismachadoreis" },
       { "social": "linkedin", "username": "@luismachadoreis", "link": "https://linkedin.com/in/luismachadoreis" },
-      { "social": "about.me", "username": "@luismachadoreis", "link": "https://about.me/luismachadoreis" },
+      { "social": "about.me", "username": "@luismachadoreis", "link": "https://about.me/luismachadoreis" }
    ]
 }
 ```
