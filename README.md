@@ -15,6 +15,11 @@
    "name": "Luis Machado Reis 🍮",
    "pronouns": [ "he", "him" ],
    "skills": [ "pudim 🍮 master", "trouble-shooter", "trouble-creator" ],
+   "personal": {
+      "blog": "https://luismachadoreis.dev.bvr",
+      "resume": "https://github.com/luismr/resume/blob/main/README.md",
+      "github": "https://github.com/luismr"
+   },
    "work": {
       "company": "SingularIdeas",
       "role": "Software Architect",
@@ -39,13 +44,11 @@
       { "type": "AI", "name": "DeepSeek", "language": "Python" }
    ],
    "socials": [
-      { "social": "github", "username": "@luismr", "link": "https://www.github.com/luismr" },
       { "social": "bluesky", "username": "@luismachadoreis.bsky.social", "link": "https://bsky.app/profile/luismachadoreis.bsky.social" },
       { "social": "twitter", "username": "@luismachadoreis", "link": "https://twitter.com/luismachadoreis" },
       { "social": "instagram", "username": "@luismachadoreis", "link": "https://www.instagram.com/luismachadoreis" },
       { "social": "facebook", "username": "@luismachadoreis", "link": "https://facebook.com/luismachadoreis" },
-      { "social": "linkedin", "username": "@luismachadoreis", "link": "https://linkedin.com/in/luismachadoreis" },
-      { "social": "about.me", "username": "@luismachadoreis", "link": "https://about.me/luismachadoreis" }
+      { "social": "linkedin", "username": "@luismachadoreis", "link": "https://linkedin.com/in/luismachadoreis" }
    ]
 }
 ```
