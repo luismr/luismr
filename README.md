@@ -17,7 +17,7 @@
    "skills": [ "pudim 🍮 master", "trouble-shooter", "trouble-creator" ],
    "personal": {
       "blog": "https://luismachadoreis.dev.bvr",
-      "resume": "https://github.com/luismr/resume/blob/main/README.md",
+      "resume": "https://github.com/luismr/resume/blob/main/RESUME.md",
       "github": "https://github.com/luismr"
    },
    "work": {
