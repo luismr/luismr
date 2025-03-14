@@ -1,13 +1,13 @@
 # Humans
 👋 Hi, I’m @luismr
 
-👀 I’m interested in Java, Python, PHP, TypeScript, JavaScript.
+👀 I’m interested in Java, Python, PHP, TypeScript, JavaScript, and COBOL.
 
 🌱 I’m currently learning AI possibilities coding in Python and using OpenAI, Llama, and DeepSeek 👀.
 
-💞️ I’m looking to collaborate on Java, Architecture, Spring support for new developers.
+💞️ I’m looking to collaborate on Software Architecture, Java, SpringBoot, .NET, and Python  support for new developers.
 
-📫 You can reach me at [Twitter](https://twitter.com/luismachadoreis) and other Social channels can be checked at [About.me](https://about.me/luismachadoreis)
+📫 You can reach me at [BlueSky](https://bsky.app/profile/luismachadoreis.bsky.social) or [Twitter](https://twitter.com/luismachadoreis) or any other Social channels can be checked at my [Personal Blog](https://luismachadoreis.dev.br)
 
 # Normal People
 ```json
