@@ -20,8 +20,6 @@
 
 </div>
 
----
-
 ## 👨‍💻 About Me
 
 **Strategic Software Architect | Tech Leader | Engineering Manager**
