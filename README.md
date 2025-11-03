@@ -20,6 +20,7 @@
 
 </div>
 
+
 ## 👨‍💻 About Me
 
 **Strategic Software Architect | Tech Leader | Engineering Manager**
@@ -145,7 +146,6 @@ I'm an accomplished software architecture professional with **20+ years of exper
 ![Event Driven](https://img.shields.io/badge/Event_Driven_Design-4B0082?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Service Repository](https://img.shields.io/badge/Service_Repository_Pattern-2C5F2D?style=for-the-badge&logo=architecture&logoColor=white)
 
----
 
 ## 💼 Professional Experience
 
@@ -154,7 +154,6 @@ I'm an accomplished software architecture professional with **20+ years of exper
 
 **Leading SHSAI (Sears Home Service Artificial Intelligence) Team**—driving AI/ML integration for home services operations. Providing architecture support to **SHSOM (Sears Home Services Order Management)**—ensuring performance, reliability, and scalability. Implemented real-time monitoring and observability. Cross-functional leadership across Product, DevOps, QA, and Business. Mentoring backend engineers and tech leads.
 
----
 
 ### 💡 **Singular Ideas** — *Senior Software Specialist*
 📅 April 2005 – Present (20+ years) | Balneário Piçarras, Brazil 🇧🇷
@@ -163,7 +162,6 @@ I'm an accomplished software architecture professional with **20+ years of exper
 
 **Stack**: Java, SpringBoot, Python, TypeScript, React, PostgreSQL, Redis, DynamoDB, RabbitMQ, Docker, Kubernetes, Terraform, AWS (EKS, Lambda, SageMaker, S3, RDS)
 
----
 
 ### 🚀 **Trustly** — *Head of Software Architecture*
 📅 Oct 2023 – Feb 2025 | Vitória, Brazil 🇧🇷
@@ -172,7 +170,6 @@ I'm an accomplished software architecture professional with **20+ years of exper
 
 **Tech**: Java, SpringBoot, RabbitMQ, Redis, PostgreSQL, Docker, Kubernetes, TypeScript, AWS
 
----
 
 ### 🏗️ **Aurea Software** — *Product Chief Architect*
 📅 2015 – Aug 2022 | Austin, TX, USA 🇺🇸
@@ -181,7 +178,6 @@ I'm an accomplished software architecture professional with **20+ years of exper
 
 **Stack**: Java, SpringBoot, .NET, Python, TypeScript, React, Angular, AWS Lambda, RDS, CloudFormation, Docker, Kubernetes, MySQL, Redis, ActiveMQ, Jenkins
 
----
 
 ### 📞 **LigFlat Telecom** — *Founder & CTO*
 📅 Aug 2013 – Dec 2019 | Uberlândia, Brazil 🇧🇷
@@ -190,14 +186,12 @@ I'm an accomplished software architecture professional with **20+ years of exper
 
 **Tech**: Asterisk, Kamailio, OpenSIPS, Java, PostgreSQL
 
----
 
 ### 📡 **Algar Telecom** — *Staff Architect / Engineering Manager*
 📅 2008 – 2012 | Uberlândia, Brazil 🇧🇷
 
 **Architected mission-critical telecom platforms**—E-commerce, VoIP, CRM, Billing. Established CI/CD practices. Led multiple engineering teams. Delivered high-availability systems supporting millions of customers.
 
----
 
 <details>
 <summary>📋 Earlier Career Highlights (Click to expand)</summary>
@@ -210,7 +204,6 @@ I'm an accomplished software architecture professional with **20+ years of exper
 
 </details>
 
----
 
 ## 🎓 Education
 
@@ -218,7 +211,6 @@ I'm an accomplished software architecture professional with **20+ years of exper
 *Bachelor in Information Technology*  
 📅 1997 – 2000
 
----
 
 ## 🗣️ Languages
 
@@ -228,7 +220,6 @@ I'm an accomplished software architecture professional with **20+ years of exper
 ![Italian](https://img.shields.io/badge/Italian-Limited_Working-yellow?style=flat-square) 🇮🇹  
 ![German](https://img.shields.io/badge/German-Elementary-orange?style=flat-square) 🇩🇪
 
----
 
 ## 📜 Certifications
 
@@ -237,7 +228,6 @@ I'm an accomplished software architecture professional with **20+ years of exper
 - 💻 **AIX 4.1 Administrator**
 - 🖥️ **AIX 4.1 User**
 
----
 
 ## 🏆 Honors & Awards
 
@@ -246,7 +236,6 @@ I'm an accomplished software architecture professional with **20+ years of exper
 - 🥇 **Virada Startup** — 1st Place
 - 🌱 **Seed MG** — 1st Cohort
 
----
 
 ## 🤝 Let's Connect!
 
@@ -294,7 +283,6 @@ I'm always interested in collaborating on interesting projects, especially those
 [![Email](https://img.shields.io/badge/Email-luis.reis@singularideas.com.br-D14836?style=flat&logo=gmail)](mailto:luis.reis@singularideas.com.br)
 [![Blog](https://img.shields.io/badge/Blog-luismachadoreis.dev.br-FF5722?style=flat&logo=wordpress)](https://luismachadoreis.dev.br)
 
----
 
 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
@@ -304,7 +292,6 @@ I'm always interested in collaborating on interesting projects, especially those
 
 </div>
 
----
 
 <details>
 <summary>📋 For the JSON lovers out there...</summary>
@@ -480,8 +467,7 @@ I'm always interested in collaborating on interesting projects, especially those
 
 </details>
 
-<!---
-luismr/luismr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!luismr/luismr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
