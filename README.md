@@ -13,6 +13,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+
+[![Pudim Score](https://pudim.dev/badge/luismr)](https://pudim.dev/calculator/luismr)
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luismr&show_icons=true&theme=radical)
 
