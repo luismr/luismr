@@ -14,9 +14,7 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luismr&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luismr&layout=compact&theme=radical)
+[![Pudim Score](https://pudim.dev/badge/luismr)](https://pudim.dev/calculator/luismr)
 
 </div>
 
